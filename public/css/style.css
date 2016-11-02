@@ -1,0 +1,18 @@
+.div-chim{
+  width: 100px;
+  border: solid 3px #C69A66;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.hinh-chim{
+  width: 100px;
+}
+
+.ten-chim{
+  color: #B7011B;
+  font-weight: bold;
+}
+.gia-chim{
+  color: #A6A6A6;
+}
